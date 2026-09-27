@@ -97,10 +97,7 @@ BankShield_Expert_FINAL/
 ├── app.py
 ├── pruebas.py
 ├── pruebas_finales.py
-├── requirements.txt
-├── DOCUMENTACION_SISTEMA_EXPERTO.md
-├── INFORME_PRUEBAS.md
-└── GUIA_EXPOSICION.md
+└── requirements.txt
 ```
 
 ## Modos de evaluación
